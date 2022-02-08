@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "05fa1b1d9cd466cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "799fed3c32d34303",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d17b2bafac2b4508",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb3c1c6b5558927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2659478ed6b66c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58953376ac45b60d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e67b592526db9ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d479c54dca37ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec79563b09097f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "799fed3c32d34303",
+  "lastOpenFiles": [
+    "Ubiquity.md"
+  ]
+}
