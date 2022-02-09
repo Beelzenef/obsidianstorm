@@ -1,0 +1,1 @@
+Estos casos de uso afectan directamente a la [[ApplicationLayer]]
