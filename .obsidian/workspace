@@ -7,8 +7,12 @@
         "id": "799fed3c32d34303",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "InCode/Aggregates.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "InCode/Aggregates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502
+    "width": 502,
+    "collapsed": true
   },
   "active": "799fed3c32d34303",
   "lastOpenFiles": [
+    "InCode/Aggregates.md",
+    "InCode/Repositories.md",
+    "InCode/EFCore.md",
+    "Pasted image 20220211141622.png",
+    "InCode/DomainServices.md",
+    "Concepts/Behaviour.md",
+    "Concepts/AnemicModel.md",
     "InCode/DomainLayer.md",
     "InCode/InfrastructureLayer.md",
-    "InCode/ApplicationLayer.md",
-    "Concepts/Personas.md",
-    "Concepts/EventStorming.md",
-    "Concepts/UseCases.md",
-    "Concepts/UX.md",
-    "InCode/Aggregates.md",
-    "Concepts/ContextMaps.md",
-    "Concepts/UbiquitousLanguage.md"
+    "InCode/ApplicationLayer.md"
   ]
 }
