@@ -20,18 +20,32 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:productdesign  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:ds  ",
+      "color": {
+        "a": 1,
+        "rgb": 3889384
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0.3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.997752808988764,
-  "repelStrength": 20,
+  "showArrow": false,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 1.93877338877339,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.433471933471933,
+  "repelStrength": 9.66735966735967,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 1,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.7077919864333252,
+  "close": false
 }

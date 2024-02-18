@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ddd/InCode/Repositories.md",
+                "file": "ddd/InCode/Aggregates.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/introds.md",
+                "file": "ds/ds.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,36 @@
             "id": "c91b9fa07d5f31a5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "562e4ef6b6820e41",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/introds.md",
+                "file": "productdesign/uiux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8140e80fdf0b3861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "productdesign/frontendfw/flutter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,14 +130,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds/introds.md",
+                "file": "productdesign/frontendfw/flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -125,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,14 +156,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c91b9fa07d5f31a5",
+  "active": "8140e80fdf0b3861",
   "lastOpenFiles": [
-    "ds/pbi.md",
-    "ds/introds.md",
+    "productdesign/frontendfw/react.md",
+    "ddd/imgs/WhatIsAggregate.png",
+    "README.md",
+    "ddd/Concepts/ContextMaps.md",
+    "productdesign/uiux.md",
+    "productdesign/figma.md",
+    "productdesign/frontendfw",
+    "productdesign/frontendfw/flutter.md",
+    "productdesign",
+    "ds/ds.md",
+    "ddd/InCode/Aggregates.md",
     "ddd/InCode/Repositories.md",
+    "ds/pbi.md",
     "ds",
     "ddd/InCode/EFCore.md",
-    "ddd/imgs/WhatIsAggregate.png",
     "ddd/InCode/InfrastructureLayer.md",
     "ddd",
     "Untitled.canvas"

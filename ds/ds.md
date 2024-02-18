@@ -13,3 +13,5 @@
 - Sampling
     
 - Hypothesis Testing
+
+Se puede materializar con [[pbi]]
