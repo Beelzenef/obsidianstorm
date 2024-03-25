@@ -6,6 +6,8 @@
 
 La UX es también llamada UCD (User Centered Design), para mantener al user en el corazón de la aplicación.
 
+![](https://lh7-us.googleusercontent.com/rwSNx36JoKUI5NL93Bwel7LMZVToC_n15grDNNi7GQis_XWEqqReCQinslOE5YnRcRdCPa1yLRMm8gb61btXbtXH9m-gs8XmVC4EC0JmKJRSMqtNwo5XShCB9S4JBJkpvCd70c3yM_ah2yNR7guqw5tw5A=s2048)
+
 Fases:
 
 -   User Research

@@ -1,3 +1,11 @@
+
+![](https://lh7-us.googleusercontent.com/rwSNx36JoKUI5NL93Bwel7LMZVToC_n15grDNNi7GQis_XWEqqReCQinslOE5YnRcRdCPa1yLRMm8gb61btXbtXH9m-gs8XmVC4EC0JmKJRSMqtNwo5XShCB9S4JBJkpvCd70c3yM_ah2yNR7guqw5tw5A=s2048)
+
+Hacer accesible tu producto durante su desarrollo es:
+
+* más rápido
+* más barato
+
 [The Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 
 - **Perceivable**
@@ -49,3 +57,31 @@ Cada nivel de accesibilidad tiene sus requisitos
 - [ ] Si los fields de un form muestran errores, se debe sugerir una corrección si es posible
 - [ ] Controles a prueba de daltonismo y escala de grises
 - [ ] La UI debe ser regible y usable ante re-escalado de tamaños de fuentes y pantalla
+
+Checklist de vision impairments
+
+- [ ] Test con Android Simulate Color Space (Android) o Color Filter (iOS)
+- [ ] Comprueba el contraste, debería ser 4.5 : 1
+- [ ] Ofrece dark mode, pero no impongas
+- [ ] Fuentes grandes
+- [ ] Comprobar si es acorde al diseño UX
+
+Gestos o gestures
+
+Evalúa las tap áreas
+
+En Material Design deben ser 48x
+En Cupertino deben ser 44x
+
+Evalúa los Gesture Widgets y ofrece customizaciones si fuera posible
+
+![[mobilehands.png]]
+
+Cognitives
+
+- [ ] Permite la deshabilitación de animaciones
+- [ ] Comprueba si el contenido resulta abrumador a la vista o al escuchar
+- [ ] Ofrece tiempos para ciertas acciones
+- [ ] Permite la customización si fuera posible
+
+Es todo cuestión de concienciación y comunicación, tanto entre personas, código y producto final.
