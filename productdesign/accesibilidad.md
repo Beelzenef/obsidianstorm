@@ -38,6 +38,8 @@ Hay diferentes niveles de accesibilidad
 
 Cada nivel de accesibilidad tiene sus requisitos
 
+Cada sistema operativo y hardware tiene sus propios requisitos, como por ejemplo [[android]] o iOS
+
 ### Level A
 
 * El contenido que no sea de texto
