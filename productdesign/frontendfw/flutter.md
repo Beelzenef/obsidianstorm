@@ -1,6 +1,6 @@
 ## what is
 
-Framework open-source creado por Google, mantenido por Google y la comunidad, para hacer software crossplatform ([[android]], iOS, Windows, Linux, Mac y web)
+Framework open-source creado por Google, mantenido por Google y la comunidad, para hacer software crossplatform ([[android_kotlin]], iOS, Windows, Linux, Mac y web)
 
 ## Accesibilidad en Flutter
 
