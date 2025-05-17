@@ -9,3 +9,5 @@ Los acrónimos son evitables.
 Se debe tener idioma común definido.
 
 Es agnóstico de tecnologías o paradigmas.
+
+El lenguaje ubicuo intenta identificar roles para las diferentes entidades
